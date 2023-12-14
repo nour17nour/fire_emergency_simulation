@@ -59,6 +59,8 @@ Realism vs. Simplicity: Balancing realism and simplicity for effective training.
 Collaboration: Collaborative teamwork enhances project efficiency.
 
 6. Contributing
+
+IF YOU WANT TO ACCESS THE GAME (ASSETS, SCIRPTS, ETC..) OPEN THE VR FIRE SIMULATION LINK FILE, DOWNLOAD THE FILE, OPEN LINK TO ACCESS THE PROJECT. 
     
 We welcome contributions! Feel free to submit issues, feature requests, or pull requests.
 
